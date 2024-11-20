@@ -17,3 +17,9 @@ To be loaded on the PICO-8 console. Can also edit the code with text editor.
 ## p8.png
 
 The game cartridge to be loaded on the PICO-8 concole. 
+
+<br>
+<br>
+
+# PICO-8 Forum: 
+https://www.lexaloffle.com/bbs/?pid=157238#p

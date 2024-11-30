@@ -880,8 +880,8 @@ end
 
 function count_nb_of_even(list)
 	nb_even = 0
-	for i in 1,3 do
-		if list[1] % 2 == 0 then
+	for i = 1,3 do
+		if list[i] % 2 == 0 then
 			nb_even = nb_even + 1
 		end
 	end
